@@ -1,7 +1,7 @@
-# interview
+# Javascript Interview Questions
 ```javascript
 // ------------------------------------------------
-// remove - only first occurance - [1]
+// remove - only first duplicate occurance - [1]
 {
     const arr = [1, 2, 3, 2, 4, 4, 4]
     let index
