@@ -1,5 +1,5 @@
 # interview
-```javascript 
+```javascript
 // ------------------------------------------------
 // remove - only first occurance - [1]
 {
