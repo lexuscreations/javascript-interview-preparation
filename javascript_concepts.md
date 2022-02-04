@@ -1,4 +1,4 @@
-```
+```javascript
 const tomorrowMeetings = [
     {
       clientName: "ott",
@@ -16,14 +16,14 @@ const tomorrowMeetings = [
 
 console.table(tomorrowMeetings)
 
-Output:
+// Output:
 
-┌─────────┬────────────┬────────┐
-│ (index) │ clientName │  time  │
-├─────────┼────────────┼────────┤
-│    0    │   'ott'    │ '10am' │
-│    1    │   'oriz'   │ '2pm'  │
-│    2    │   'uac'    │ '7pm'  │
-└─────────┴────────────┴────────┘
+// ┌─────────┬────────────┬────────┐
+// │ (index) │ clientName │  time  │
+// ├─────────┼────────────┼────────┤
+// │    0    │   'ott'    │ '10am' │
+// │    1    │   'oriz'   │ '2pm'  │
+// │    2    │   'uac'    │ '7pm'  │
+// └─────────┴────────────┴────────┘
 
 ```
