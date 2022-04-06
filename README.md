@@ -101,10 +101,10 @@ https://pandao.github.io/editor.md/en.html
 ```
 
 ![image](https://user-images.githubusercontent.com/72046165/162038772-c7eeb748-fac3-4a42-bd52-f14fb5a91213.png)
-<hr>
+
 ![image](https://user-images.githubusercontent.com/72046165/162039608-ac9e733c-2cbd-4ef4-affc-9d3d93ec106a.png)
-<hr>
+
 ![image](https://user-images.githubusercontent.com/72046165/162039940-d2c5b240-4b5a-40a5-91a5-929618d2e6fd.png)
-<hr>
+
 ![image](https://user-images.githubusercontent.com/72046165/162050555-22ef0b0b-35f1-4d71-8e60-b5677a63c497.png)
 
