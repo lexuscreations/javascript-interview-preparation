@@ -105,6 +105,12 @@ https://pandao.github.io/editor.md/en.html
 ![image](https://user-images.githubusercontent.com/72046165/162039608-ac9e733c-2cbd-4ef4-affc-9d3d93ec106a.png)
 
 ![image](https://user-images.githubusercontent.com/72046165/162039940-d2c5b240-4b5a-40a5-91a5-929618d2e6fd.png)
+```
+isArr = Object.prototype.toString.call(data) == '[object Array]';
+// working with jquery
+var isArr = $.isArray(data);
+```
+
 
 ![image](https://user-images.githubusercontent.com/72046165/162050555-22ef0b0b-35f1-4d71-8e60-b5677a63c497.png)
 
