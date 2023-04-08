@@ -1,3 +1,10 @@
+```javascript
+// to use __dirname in { "type": "module" } -> (package.json)
+/* 1). */ import { fileURLToPath } from "url";
+/* 2). */ const __filename = fileURLToPath(import.meta.url);
+/* 3). */ const __dirname = path.dirname(__filename);
+```
+
 # Javascript Interview Questions
 https://pandao.github.io/editor.md/en.html
 ```javascript
