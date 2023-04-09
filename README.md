@@ -1,8 +1,9 @@
 ```javascript
 // to use __dirname in { "type": "module" } -> (package.json)
 /* 1). */ import { fileURLToPath } from "url";
-/* 2). */ const __filename = fileURLToPath(import.meta.url);
-/* 3). */ const __dirname = path.dirname(__filename);
+/* 2). */ import path from "path";
+/* 3). */ const __filename = fileURLToPath(import.meta.url);
+/* 4). */ const __dirname = path.dirname(__filename);
 ```
 
 <hr />
