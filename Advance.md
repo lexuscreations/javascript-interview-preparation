@@ -152,6 +152,8 @@ console.log(add(2, 3, 4)) // 9
 
 ```javascript
 // Helmet helps secure, Express apps by setting various HTTP headers
+import express from "express";
+const app = express();
 import helmet from "helmet"
 import cors from "cors"
 
