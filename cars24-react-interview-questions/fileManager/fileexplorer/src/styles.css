@@ -1,0 +1,23 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.explorer-item {
+  margin: 5px 0;
+}
+
+.folder {
+  cursor: pointer;
+  color: #007bff;
+}
+
+.file {
+  color: #555;
+}
+
+.folder-content {
+  margin-left: 20px;
+  border-left: 1px dashed #ccc;
+  padding-left: 10px;
+}
